@@ -1,0 +1,49 @@
+{
+  "genotypes": {
+    "w; Or23a-GAL4, UAS-mCD8GFP / CyO; TM2 / TM6B": {
+      "genotype": "w; Or23a-GAL4, UAS-mCD8GFP / CyO; TM2 / TM6B",
+      "X_A": "w",
+      "X_B": "w",
+      "II_A": "Or23a-GAL4, UAS-mCD8GFP",
+      "II_B": "Cyo",
+      "IIIA": "TM2",
+      "IIIC": "TM6B"
+    },
+    "w; Or47b-GAL4, UAS-mCD8GFP / CyO; TM2 / TM6B": {
+      "genotype": "w; Or47b-GAL4, UAS-mCD8GFP / CyO; TM2 / TM6B",
+      "X_A": "w",
+      "X_B": "w",
+      "II_A": "Or47b-GAL4, UAS-mCD8GFP",
+      "II_B": "Cyo",
+      "IIIA": "TM2",
+      "IIIC": "TM6B"
+    },
+    "w; Gr21a-GAL4, UAS-sytGFP / CyO; UAS-mCD8GFP / TM6B": {
+      "genotype": "w; Gr21a-GAL4, UAS-sytGFP / CyO; UAS-mCD8GFP / TM6B",
+      "X_A": "w",
+      "X_B": "w",
+      "II_A": "Gr21a-GAL4, UAS-sytGFP",
+      "II_B": "Cyo",
+      "IIIA": " UAS-mCD8GFP",
+      "IIIC": "TM6B"
+    },
+    "w; Gr21a-GAL4, UAS-sytGFP / CyO; TM2 / TM6B": {
+      "genotype": "w; Gr21a-GAL4, UAS-sytGFP / CyO; TM2 / TM6B",
+      "X_A": "w",
+      "X_B": "w",
+      "II_A": "Gr21a-GAL4, UAS-sytGFP",
+      "II_B": "Cyo",
+      "IIIA": "TM2",
+      "IIIC": "TM6B"
+    },
+    "w; Bl / CyO; UAS-mCD8GFP; OK107-GAL4 / +": {
+      "genotype": "w; Bl / CyO; UAS-mCD8GFP; OK107-GAL4 / +",
+      "X_A": "w",
+      "X_B": "w",
+      "II_A": "Bl",
+      "II_B": "Cyo",
+      "IIIA": "OK107-GAL4",
+      "IIIC": "+"
+    }
+  }
+}
